@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    }
+    #title{
+    font-size:70px;
+    font-variant:small-caps;
+    }
+    #family{
+    font-size:20px;
+    font-variant:small-caps;
+    }
+    #img1{
+    width:400px;
+    height:400px;
+    border-width:2px;
+    border-style:solid;
+    padding:5px;
+    }
+    #Family{
+    font-size:70px;
+    font-variant:small-caps;
+    }
+    
